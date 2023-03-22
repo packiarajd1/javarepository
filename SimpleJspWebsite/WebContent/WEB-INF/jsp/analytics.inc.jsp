@@ -1,4 +1,5 @@
 <script>
+  //test
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', '${analyticsId}']);
   _gaq.push(['_trackPageview']);
